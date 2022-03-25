@@ -12,6 +12,7 @@ used youtube tutorial 'Build restful API with PostgreSQL and Express' by The Sto
 - Express.js
 - PostgreSQL
 - npm pg package for PostgreSQL
+- git
 
 ## Project Status
 
@@ -20,12 +21,13 @@ Project is: _in progress_.
 ## What is done
 
     - created server in express
-    - created CRUD, connected to database todo
+    - created routes, connected to database todo
+    - used git
 
 ## Room for Improvement
 
 - write documentation with swagger - can't figure out how to make swagger work at this point.
-- upload to heroku platform
+- upload to heroku platform - uploaded, but have got the error
 
 ## Notes
 
